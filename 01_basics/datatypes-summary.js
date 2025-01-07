@@ -51,3 +51,7 @@ console.log(typeof anotherId);                //Method used to know a variables 
 // Object  =>  object
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//Memory allocation available 
+//Stack (Primitive ), Heap(Non-primitive)
+//In Stack whenever the usertwo = userone is done it creates a copy of the data which creates issue but with heap on the other hand the reference is given for the original data only . 
