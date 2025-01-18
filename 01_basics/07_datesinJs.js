@@ -22,7 +22,7 @@ console.log(newDate.getHours());
 console.log(newDate.getMonth() + 1);
 console.log(newDate.getFullYear());
 
-newDate.toLocaleString('default', 
+newDate.toLocaleString('default', //Important
     {weekday: "long", 
      
 })
